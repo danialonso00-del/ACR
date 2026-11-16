@@ -1,0 +1,62 @@
+{
+  "name": "arc-intelligencia-residus",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ARC · Intel·ligència de Residus — demostració tecnològica de MTI per explorar caracteritzacions FORM públiques de l'ARC.",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "bench": "tsx scripts/bench/filters.ts",
+    "ingest:sdr": "tsx scripts/ingest/ingest-sdr.ts",
+    "ingest:photos": "tsx scripts/ingest/ingest-photos.ts",
+    "build:snapshot": "tsx scripts/ingest/build-snapshot.ts",
+    "build:geo": "tsx scripts/geo/build-geo.ts",
+    "build:synthetic": "tsx scripts/synthetic/generate.ts",
+    "data:all": "npm run build:geo && npm run build:snapshot && npm run build:synthetic",
+    "report:coverage": "tsx scripts/ingest/coverage-report.ts",
+    "test:all": "npm run typecheck && npm run lint && npm run test && npm run build"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "1.4.0",
+    "@fontsource-variable/inter": "5.3.0",
+    "@tanstack/react-table": "8.21.3",
+    "clsx": "2.1.1",
+    "echarts": "6.1.0",
+    "jspdf": "4.2.1",
+    "jspdf-autotable": "5.0.9",
+    "lucide-react": "1.68.0",
+    "next": "16.4.5",
+    "papaparse": "5.7.0",
+    "radix-ui": "1.8.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "read-excel-file": "9.3.14",
+    "server-only": "0.0.1",
+    "tailwind-merge": "3.7.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@tailwindcss/postcss": "4.3.4",
+    "@types/node": "^24",
+    "@types/papaparse": "5.5.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "10.14.0",
+    "eslint-config-next": "16.4.5",
+    "tailwindcss": "4.3.4",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vitest": "4.1.12"
+  }
+}

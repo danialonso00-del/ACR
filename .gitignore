@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+next-env.d.ts
+.env
+.env.local
+.env.*.local
+# Runtime state written by the local demo (imports, saved reports, photo cache)
+data/runtime/
+data/cache/
+# Raw SDR captures contain personal data (vehicle plates, attendee names): kept locally,
+# reproducible with `npm run ingest:sdr`. The manifest (hashes, URLs, params) is versioned.
+data/raw/sdr/*/
+!data/raw/sdr/manifest.json

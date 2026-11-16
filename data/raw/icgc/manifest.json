@@ -1,0 +1,18 @@
+[
+  {
+    "layer": "comarques_1000000",
+    "url": "https://geoserveis.icgc.cat/servei/catalunya/divisions-administratives/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&srsName=EPSG:4326&typeNames=divisions_administratives_wfs:divisions_administratives_comarques_1000000",
+    "capturedAt": "2026-11-04T16:58:36Z",
+    "sha256": "f56191dc413b5ea8ef58171a359af2297ed3c544a48d2fb078604e50a0284a77",
+    "bytes": 1493491,
+    "licence": "ICGC \u2014 CC BY 4.0 (verify on icgc.cat before redistribution)"
+  },
+  {
+    "layer": "municipis_1000000",
+    "url": "https://geoserveis.icgc.cat/servei/catalunya/divisions-administratives/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&srsName=EPSG:4326&typeNames=divisions_administratives_wfs:divisions_administratives_municipis_1000000",
+    "capturedAt": "2026-11-04T16:58:36Z",
+    "sha256": "0d1abda24978b93103232ce2474f42bf02fcae3be53dc1f8b69910a044511e59",
+    "bytes": 5701833,
+    "licence": "ICGC \u2014 CC BY 4.0 (verify on icgc.cat before redistribution)"
+  }
+]

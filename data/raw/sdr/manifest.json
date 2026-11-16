@@ -1,0 +1,1817 @@
+[
+  {
+    "kind": "export_csv",
+    "key": "2006",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2006",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-04T17:16:19.376Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2006/a35c27883732d17f.csv",
+    "sha256": "a35c27883732d17f6276f43639bd16767617c91c4ef2e6de5126328e53f783df",
+    "bytes": 1469994
+  },
+  {
+    "kind": "list_html",
+    "key": "2006",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2006",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-04T17:16:20.839Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2006/e36a9cecfaab12a5.html",
+    "sha256": "e36a9cecfaab12a58b73c9ff2f542ad374b4592154e58a044530478b3f493cbd",
+    "bytes": 1084100
+  },
+  {
+    "kind": "export_csv",
+    "key": "2019",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2019",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-04T17:16:56.075Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2019/1791325302547f25.csv",
+    "sha256": "1791325302547f25e33fdeabd67f1e61cdbb1264a5ea4899feb576c35033ea9b",
+    "bytes": 1318454
+  },
+  {
+    "kind": "list_html",
+    "key": "2019",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2019",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-04T17:16:58.655Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2019/288f70e30d9764c4.html",
+    "sha256": "288f70e30d9764c4856cea780bd7739625c7416d1bcaaabbb77fedad7c4bfd28",
+    "bytes": 1862836
+  },
+  {
+    "kind": "export_csv",
+    "key": "2020",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2020",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-04T17:17:31.149Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2020/ff0d186612f61584.csv",
+    "sha256": "ff0d186612f61584bff91de6eb265bfb06270e4d17a6964b71ec14cae58e344a",
+    "bytes": 1294119
+  },
+  {
+    "kind": "list_html",
+    "key": "2020",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2020",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-04T17:17:33.599Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2020/cf5c47bbc68adcee.html",
+    "sha256": "cf5c47bbc68adcee28f1aa77f7773f3931309f4ace7ac768ba0ec5c724f132de",
+    "bytes": 1736818
+  },
+  {
+    "kind": "export_csv",
+    "key": "2021",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2021",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-04T17:18:08.547Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2021/c75f977c6b84cad4.csv",
+    "sha256": "c75f977c6b84cad4fbb4ccf11c4784ac0fed49aa46f32798c933cb6147825eac",
+    "bytes": 1488119
+  },
+  {
+    "kind": "list_html",
+    "key": "2021",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2021",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-04T17:18:11.390Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2021/5f7e3b6b8e331a9e.html",
+    "sha256": "5f7e3b6b8e331a9ec99e4a4e840d8f1c8e2b34102c0573272b7052067333054f",
+    "bytes": 1979972
+  },
+  {
+    "kind": "export_csv",
+    "key": "2022",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2022",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-04T17:18:47.807Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2022/83a5b6b5829e8a7b.csv",
+    "sha256": "83a5b6b5829e8a7bfee35d0b95284e6adbdc02c3d50246889b1e831eb2f86de4",
+    "bytes": 1490691
+  },
+  {
+    "kind": "list_html",
+    "key": "2022",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2022",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-04T17:18:51.215Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2022/b4eac5b6e8b213e0.html",
+    "sha256": "b4eac5b6e8b213e0a0aa2f4df062f099fcdcba50aee55e332fc51145957a40ab",
+    "bytes": 2014893
+  },
+  {
+    "kind": "export_csv",
+    "key": "2023",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2023",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-05T09:15:13.208Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2023/ca568edc941dad1f.csv",
+    "sha256": "ca568edc941dad1f6892d45a0f3265c1dabfd1f980db2d61e858ba7e93783351",
+    "bytes": 1486561
+  },
+  {
+    "kind": "list_html",
+    "key": "2023",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2023",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-05T09:15:20.322Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2023/14dc0ed7fb6944c5.html",
+    "sha256": "14dc0ed7fb6944c57c55ab224485ff37c1ab326c10d72d01926515f1c1f06685",
+    "bytes": 2026349
+  },
+  {
+    "kind": "export_csv",
+    "key": "2024",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2024",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-05T09:15:43.942Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2024/18baa15fd60668ff.csv",
+    "sha256": "18baa15fd60668ff6903e646851ed38a546121d86657cd8d50badb818438c805",
+    "bytes": 1156044
+  },
+  {
+    "kind": "list_html",
+    "key": "2024",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2024",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-05T09:15:47.011Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2024/2985461fae917f87.html",
+    "sha256": "2985461fae917f87b20326e088705f0a893c3c73aa205131578af4f211bc9bf6",
+    "bytes": 1615661
+  },
+  {
+    "kind": "export_csv",
+    "key": "2025",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2025",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-05T09:16:29.099Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2025/9659132c5cf30f33.csv",
+    "sha256": "9659132c5cf30f33d761cfb5eca1911de5fd1cb3c55c29c8809c25f4e63db8cf",
+    "bytes": 1526843
+  },
+  {
+    "kind": "list_html",
+    "key": "2025",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2025",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-05T09:16:34.955Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2025/df90e2dbd6d1472a.html",
+    "sha256": "df90e2dbd6d1472ad4cbf430ad3e6bc6e41d0a0723e3ee8639ec647e5587819f",
+    "bytes": 2092610
+  },
+  {
+    "kind": "export_csv",
+    "key": "2026",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do?accio=Exportar",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2026",
+      "butlletiPeriode": "",
+      "codiComarca": "00"
+    },
+    "capturedAt": "2026-11-05T09:16:59.206Z",
+    "contentType": "text/csv",
+    "contentDisposition": "attachment; filename=\"caracteritzacions.csv\"",
+    "status": 200,
+    "file": "export_csv/2026/c4db211675fad3bb.csv",
+    "sha256": "c4db211675fad3bbb946fb4da59efcff6a9a219621cbbf3e2bb04ce453b9f738",
+    "bytes": 1372231
+  },
+  {
+    "kind": "list_html",
+    "key": "2026",
+    "url": "https://sdr.arc.cat/cform/ListCaracteritzacions.do",
+    "method": "POST",
+    "params": {
+      "posInicial": "1",
+      "adscritServeiPublic": "S",
+      "ordre": "1",
+      "offset_default": "12",
+      "offset": "12",
+      "butlletiAny": "2026",
+      "butlletiPeriode": "",
+      "codiComarca": "00",
+      "mostrarTots": "on"
+    },
+    "capturedAt": "2026-11-05T09:17:02.829Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "list_html/2026/4f8449057938fda9.html",
+    "sha256": "4f8449057938fda935a85780ef9b39f17f6d44a793749297621c33cf63067acf",
+    "bytes": 1843746
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31299",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31299",
+    "method": "GET",
+    "params": {
+      "caractId": "31299"
+    },
+    "capturedAt": "2026-11-05T09:22:59.450Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31299/eabb1776cf4087b1.html",
+    "sha256": "eabb1776cf4087b1653c7fcaa34136b06380a511baf1ef93da992348a66f90b7",
+    "bytes": 139405
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31300",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31300",
+    "method": "GET",
+    "params": {
+      "caractId": "31300"
+    },
+    "capturedAt": "2026-11-05T09:23:00.148Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31300/64d653ce38581167.html",
+    "sha256": "64d653ce38581167ee8d8363aa4346d9bb7d1e8d736ddefcf38fb5318dd3df7a",
+    "bytes": 142290
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31301",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31301",
+    "method": "GET",
+    "params": {
+      "caractId": "31301"
+    },
+    "capturedAt": "2026-11-05T09:23:02.807Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31301/d26a22fbf23551b8.html",
+    "sha256": "d26a22fbf23551b839623aafea199d92409d6a0e6d4aec1baa9a7a5cf2b5828c",
+    "bytes": 142290
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31290",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31290",
+    "method": "GET",
+    "params": {
+      "caractId": "31290"
+    },
+    "capturedAt": "2026-11-05T09:23:07.306Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31290/c54a3e3992acd90e.html",
+    "sha256": "c54a3e3992acd90ed5919d64726444df708ff18686c379d7a7a6de19d0a464c8",
+    "bytes": 168255
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31293",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31293",
+    "method": "GET",
+    "params": {
+      "caractId": "31293"
+    },
+    "capturedAt": "2026-11-05T09:23:08.272Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31293/a271d91ecf8bb368.html",
+    "sha256": "a271d91ecf8bb368e0e436939c605637fc6a548608a77ae2505e672710f69775",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31284",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31284",
+    "method": "GET",
+    "params": {
+      "caractId": "31284"
+    },
+    "capturedAt": "2026-11-05T09:23:10.469Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31284/4f75a7249c002f44.html",
+    "sha256": "4f75a7249c002f444caddf528ef666ab658993c742d919ef4938495e8d9c06a7",
+    "bytes": 142290
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31285",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31285",
+    "method": "GET",
+    "params": {
+      "caractId": "31285"
+    },
+    "capturedAt": "2026-11-05T09:23:14.837Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31285/82eb5b35d082beba.html",
+    "sha256": "82eb5b35d082beba53cea4c40a714cd7df3816872e3e44b41c535d6ef728f9df",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31286",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31286",
+    "method": "GET",
+    "params": {
+      "caractId": "31286"
+    },
+    "capturedAt": "2026-11-05T09:23:16.623Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31286/d2cb8af7522fc643.html",
+    "sha256": "d2cb8af7522fc6432e579bd1b9e9ee0d17a370d58816eef87c586b012d11dfb5",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31287",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31287",
+    "method": "GET",
+    "params": {
+      "caractId": "31287"
+    },
+    "capturedAt": "2026-11-05T09:23:18.079Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31287/6a66d132060ed261.html",
+    "sha256": "6a66d132060ed2617032045b2e8453af090f137a1c98a1b9d7a322e647222ed4",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31274",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31274",
+    "method": "GET",
+    "params": {
+      "caractId": "31274"
+    },
+    "capturedAt": "2026-11-05T09:23:20.605Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31274/433bdb046dc7a54c.html",
+    "sha256": "433bdb046dc7a54c73eed57a6f0172ac7889bfecd14b0e1f2d980c34aaa56cac",
+    "bytes": 133635
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31275",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31275",
+    "method": "GET",
+    "params": {
+      "caractId": "31275"
+    },
+    "capturedAt": "2026-11-05T09:23:23.036Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31275/2c353c8fa335cd90.html",
+    "sha256": "2c353c8fa335cd90a3531342a875013bac2a323495658c597f06bb63ee216345",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31282",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31282",
+    "method": "GET",
+    "params": {
+      "caractId": "31282"
+    },
+    "capturedAt": "2026-11-05T09:23:25.621Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31282/313b60a539786e25.html",
+    "sha256": "313b60a539786e25d3f577cd07d0c6934e7f9843a3264a406b57fc47236f234c",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31283",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31283",
+    "method": "GET",
+    "params": {
+      "caractId": "31283"
+    },
+    "capturedAt": "2026-11-05T09:23:28.328Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31283/73356ac9e961348e.html",
+    "sha256": "73356ac9e961348e4828a8c442c7270eb6843fc05f69dc3e84a2330392b3958f",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31292",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31292",
+    "method": "GET",
+    "params": {
+      "caractId": "31292"
+    },
+    "capturedAt": "2026-11-05T09:23:31.948Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31292/9d368f7d4e84f7ba.html",
+    "sha256": "9d368f7d4e84f7ba3824f0388cafef019f0eff4318c3a61ec38a8431b629eea6",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31306",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31306",
+    "method": "GET",
+    "params": {
+      "caractId": "31306"
+    },
+    "capturedAt": "2026-11-05T09:23:33.131Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31306/0d8a6da9d047738e.html",
+    "sha256": "0d8a6da9d047738ec8b34d08a3e94efa5c2f232f150339fac0b36b692f621c0c",
+    "bytes": 165370
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31307",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31307",
+    "method": "GET",
+    "params": {
+      "caractId": "31307"
+    },
+    "capturedAt": "2026-11-05T09:23:35.630Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31307/c921e1591df23f11.html",
+    "sha256": "c921e1591df23f1142cf48cdf0837b7335735ac4e5ef665879c8273c8a984604",
+    "bytes": 168255
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31260",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31260",
+    "method": "GET",
+    "params": {
+      "caractId": "31260"
+    },
+    "capturedAt": "2026-11-05T09:23:38.176Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31260/6b2a0ba396967400.html",
+    "sha256": "6b2a0ba3969674001bf59a104d8126f185ba57565dab973c0a017b665fcb2f51",
+    "bytes": 168255
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31262",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31262",
+    "method": "GET",
+    "params": {
+      "caractId": "31262"
+    },
+    "capturedAt": "2026-11-05T09:23:40.751Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31262/a39ef76ffe011720.html",
+    "sha256": "a39ef76ffe0117202ef50829a1e47221800622950817dfce3736acf6c1a5306a",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31270",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31270",
+    "method": "GET",
+    "params": {
+      "caractId": "31270"
+    },
+    "capturedAt": "2026-11-05T09:23:43.234Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31270/19e36149452523e8.html",
+    "sha256": "19e36149452523e84608f33d165c59bdf771f0d779eec8a94f79ee65c0920c70",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31272",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31272",
+    "method": "GET",
+    "params": {
+      "caractId": "31272"
+    },
+    "capturedAt": "2026-11-05T09:23:45.742Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31272/d7a56d66a20e2226.html",
+    "sha256": "d7a56d66a20e222617374eb4a2e92b5d02997977fcd23768405378189f3fddb1",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31280",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31280",
+    "method": "GET",
+    "params": {
+      "caractId": "31280"
+    },
+    "capturedAt": "2026-11-05T09:23:48.497Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31280/01556290e098820d.html",
+    "sha256": "01556290e098820da54acd36d49ac894aa0c7bbb8aba6447d02e2d58b9907b62",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31281",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31281",
+    "method": "GET",
+    "params": {
+      "caractId": "31281"
+    },
+    "capturedAt": "2026-11-05T09:23:50.904Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31281/91b505b6e86dbde2.html",
+    "sha256": "91b505b6e86dbde23de1b3e9ebdb5d97f4062fd30b52aa3b9edac4270cfbcc34",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31278",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31278",
+    "method": "GET",
+    "params": {
+      "caractId": "31278"
+    },
+    "capturedAt": "2026-11-05T09:23:53.215Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31278/37ecf6bd31977ae6.html",
+    "sha256": "37ecf6bd31977ae6bc36be827d4248f9dc085ff0a41cfe7b721c8b0533b1b457",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31279",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31279",
+    "method": "GET",
+    "params": {
+      "caractId": "31279"
+    },
+    "capturedAt": "2026-11-05T09:23:55.799Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31279/789cb4722678215b.html",
+    "sha256": "789cb4722678215b4b55b2285dad884d0bc8f0eef52ce44d3553cd006588f68e",
+    "bytes": 153830
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31244",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31244",
+    "method": "GET",
+    "params": {
+      "caractId": "31244"
+    },
+    "capturedAt": "2026-11-05T09:24:00.725Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31244/0346eec56f7dcbeb.html",
+    "sha256": "0346eec56f7dcbeb5b62e080fbb911ca5bc015b3cafe32b5c094be62abc6974a",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31252",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31252",
+    "method": "GET",
+    "params": {
+      "caractId": "31252"
+    },
+    "capturedAt": "2026-11-05T09:24:02.287Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31252/7d7fa71892242727.html",
+    "sha256": "7d7fa718922427270c2ff3bb4cfd91cc901e3666426fb5d5d74ef8b2656f7178",
+    "bytes": 142290
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31253",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31253",
+    "method": "GET",
+    "params": {
+      "caractId": "31253"
+    },
+    "capturedAt": "2026-11-05T09:24:04.237Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31253/3436a6d03f5015ca.html",
+    "sha256": "3436a6d03f5015ca2d2c008343fa751a35d7ad784bac999d3480ad60cff6b15b",
+    "bytes": 142290
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31254",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31254",
+    "method": "GET",
+    "params": {
+      "caractId": "31254"
+    },
+    "capturedAt": "2026-11-05T09:24:06.691Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31254/4d5e7deda20ba2aa.html",
+    "sha256": "4d5e7deda20ba2aa70eb47cc16898c7d873fbf7b0281d8219909c0c132f49983",
+    "bytes": 145175
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31255",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31255",
+    "method": "GET",
+    "params": {
+      "caractId": "31255"
+    },
+    "capturedAt": "2026-11-05T09:24:09.045Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31255/4733cc8ff07dfbd0.html",
+    "sha256": "4733cc8ff07dfbd084437e33330b3f1c613537f7d3bc71bdb4de2337f3bb0406",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31256",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31256",
+    "method": "GET",
+    "params": {
+      "caractId": "31256"
+    },
+    "capturedAt": "2026-11-05T09:24:11.700Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31256/c40112ff9625d352.html",
+    "sha256": "c40112ff9625d352fe4b6f15c9d39d39cd0eadffae60c9cd084ccc9ba4a3683f",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31257",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31257",
+    "method": "GET",
+    "params": {
+      "caractId": "31257"
+    },
+    "capturedAt": "2026-11-05T09:24:14.260Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31257/252be6c20b2bd98f.html",
+    "sha256": "252be6c20b2bd98fc3cb420cb996dbe6833e539856ce8a30ef584e2de48c416f",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31258",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31258",
+    "method": "GET",
+    "params": {
+      "caractId": "31258"
+    },
+    "capturedAt": "2026-11-05T09:24:16.578Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31258/5fb4615ad5c10ce5.html",
+    "sha256": "5fb4615ad5c10ce5028a1cf928a6a713d9ad577a2f5a280f486c4a1dcebb0def",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31259",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31259",
+    "method": "GET",
+    "params": {
+      "caractId": "31259"
+    },
+    "capturedAt": "2026-11-05T09:24:19.072Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31259/7718f3622de94884.html",
+    "sha256": "7718f3622de94884a784ca861129dbb4abdb917d710ee1d7924c882c6aab4186",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31268",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31268",
+    "method": "GET",
+    "params": {
+      "caractId": "31268"
+    },
+    "capturedAt": "2026-11-05T09:24:22.868Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31268/1b624cd54ab878d0.html",
+    "sha256": "1b624cd54ab878d0be8e606adbe23b33434ddb5f2c01cf61d5fdcf52be4065ff",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31269",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31269",
+    "method": "GET",
+    "params": {
+      "caractId": "31269"
+    },
+    "capturedAt": "2026-11-05T09:24:26.353Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31269/7852b84238136a9f.html",
+    "sha256": "7852b84238136a9f8dbda704ea3eceb48168820ee59d8cceb47c775c7d018be3",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31276",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31276",
+    "method": "GET",
+    "params": {
+      "caractId": "31276"
+    },
+    "capturedAt": "2026-11-05T09:24:27.945Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31276/77f7e33b8397df37.html",
+    "sha256": "77f7e33b8397df37522aada611e2a7256655b2244648709d8991fb693162c377",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31242",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31242",
+    "method": "GET",
+    "params": {
+      "caractId": "31242"
+    },
+    "capturedAt": "2026-11-05T09:24:29.730Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31242/8b7df0fefa351436.html",
+    "sha256": "8b7df0fefa3514361b25b87c46a9aff52acb9262cf1bc5abe70ea03f3dbadf73",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31243",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31243",
+    "method": "GET",
+    "params": {
+      "caractId": "31243"
+    },
+    "capturedAt": "2026-11-05T09:24:32.199Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31243/b95afc5c2f42a193.html",
+    "sha256": "b95afc5c2f42a1937c4e5d55c7e9d91741497f4e0c67841322c8ab7dec3e57e1",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31250",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31250",
+    "method": "GET",
+    "params": {
+      "caractId": "31250"
+    },
+    "capturedAt": "2026-11-05T09:24:34.654Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31250/92f3bc90ca61495e.html",
+    "sha256": "92f3bc90ca61495e82302979f462920640d9cbd8346bffc61274c147caf1b52d",
+    "bytes": 168255
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31251",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31251",
+    "method": "GET",
+    "params": {
+      "caractId": "31251"
+    },
+    "capturedAt": "2026-11-05T09:24:37.301Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31251/dbe643d5d209a939.html",
+    "sha256": "dbe643d5d209a93995d70cf84578ae9bb60c012ac24aa90df1b5fb44c1f3be99",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31266",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31266",
+    "method": "GET",
+    "params": {
+      "caractId": "31266"
+    },
+    "capturedAt": "2026-11-05T09:24:39.523Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31266/ed3ebf6606900fea.html",
+    "sha256": "ed3ebf6606900fea0b5b034c4bbcb47aa8a8a66d51d67099707795436acfbc05",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31267",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31267",
+    "method": "GET",
+    "params": {
+      "caractId": "31267"
+    },
+    "capturedAt": "2026-11-05T09:24:42.052Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31267/9950b067fd020669.html",
+    "sha256": "9950b067fd020669af31c97a89864df5486efebc401c80129f6e0c5401ad1991",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31288",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31288",
+    "method": "GET",
+    "params": {
+      "caractId": "31288"
+    },
+    "capturedAt": "2026-11-05T09:24:44.549Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31288/178508a7b94a75df.html",
+    "sha256": "178508a7b94a75dfc2fb2467435db6e76d27c6565a16f1a5912ce4ff34b122f2",
+    "bytes": 165370
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31238",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31238",
+    "method": "GET",
+    "params": {
+      "caractId": "31238"
+    },
+    "capturedAt": "2026-11-05T09:24:49.455Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31238/14bbd7da7ec05539.html",
+    "sha256": "14bbd7da7ec05539a9b667ef2c7bc7bb5dec1cb106bc1ef24b20938e9262d24e",
+    "bytes": 133635
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31239",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31239",
+    "method": "GET",
+    "params": {
+      "caractId": "31239"
+    },
+    "capturedAt": "2026-11-05T09:24:50.348Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31239/dcb8c5543c97c58c.html",
+    "sha256": "dcb8c5543c97c58c937eb2f1b204c7ab19d9ee68eea7307bd1c9326ae99d9ec6",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31240",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31240",
+    "method": "GET",
+    "params": {
+      "caractId": "31240"
+    },
+    "capturedAt": "2026-11-05T09:24:52.584Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31240/f7338433e2527735.html",
+    "sha256": "f7338433e25277356aeeee957ebde796a09040a98554a532cd3304ab2edb6074",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31241",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31241",
+    "method": "GET",
+    "params": {
+      "caractId": "31241"
+    },
+    "capturedAt": "2026-11-05T09:24:55.141Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31241/e311d6fd9cc6877e.html",
+    "sha256": "e311d6fd9cc6877ee5a5418680a8d70ea70100efaae87257d5d23ac014a756e5",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31246",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31246",
+    "method": "GET",
+    "params": {
+      "caractId": "31246"
+    },
+    "capturedAt": "2026-11-05T09:24:57.715Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31246/6f84e4874d8ca286.html",
+    "sha256": "6f84e4874d8ca286b149681e614fb50ccffda5cc1061b18db3d3aef598f6dfaf",
+    "bytes": 145175
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31249",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31249",
+    "method": "GET",
+    "params": {
+      "caractId": "31249"
+    },
+    "capturedAt": "2026-11-05T09:25:00.154Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31249/0376ea23cfa6cb5e.html",
+    "sha256": "0376ea23cfa6cb5efb8172967c7dee342c594eec8c4a6cefe2c45d5061e634a3",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31264",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31264",
+    "method": "GET",
+    "params": {
+      "caractId": "31264"
+    },
+    "capturedAt": "2026-11-05T09:25:02.778Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31264/2062b810e5f556fa.html",
+    "sha256": "2062b810e5f556fa65bb110f7e5e5e17ffca57e2b2cd072f76708c78af338510",
+    "bytes": 165370
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31265",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31265",
+    "method": "GET",
+    "params": {
+      "caractId": "31265"
+    },
+    "capturedAt": "2026-11-05T09:25:05.169Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31265/c730bdfcd598cad1.html",
+    "sha256": "c730bdfcd598cad103e1ca62bea1476d929101edda358deb6ab1febb17d85a0b",
+    "bytes": 165370
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31271",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31271",
+    "method": "GET",
+    "params": {
+      "caractId": "31271"
+    },
+    "capturedAt": "2026-11-05T09:25:07.638Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31271/b4060942a2185ffd.html",
+    "sha256": "b4060942a2185ffdd21574f29cbec49c3053cfff27a198f74fb42feb9dcdcf31",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31226",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31226",
+    "method": "GET",
+    "params": {
+      "caractId": "31226"
+    },
+    "capturedAt": "2026-11-05T09:25:10.269Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31226/f01356302a6f65f9.html",
+    "sha256": "f01356302a6f65f9ac9e08951d337d4e3c3efdd659388074aae8fa57dacfdea8",
+    "bytes": 153830
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31232",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31232",
+    "method": "GET",
+    "params": {
+      "caractId": "31232"
+    },
+    "capturedAt": "2026-11-05T09:25:12.790Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31232/055f79918473612f.html",
+    "sha256": "055f79918473612fcfb162f773fdf75183c3b829b5f775db2c4129e1cf9bceaa",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31233",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31233",
+    "method": "GET",
+    "params": {
+      "caractId": "31233"
+    },
+    "capturedAt": "2026-11-05T09:25:15.370Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31233/64d8635193cb66dd.html",
+    "sha256": "64d8635193cb66dd6c1c8d051ac537d43d3ea8210f14f5b0c3445c07d6fee23c",
+    "bytes": 139405
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31235",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31235",
+    "method": "GET",
+    "params": {
+      "caractId": "31235"
+    },
+    "capturedAt": "2026-11-05T09:25:18.066Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31235/af405c71b3a6d11a.html",
+    "sha256": "af405c71b3a6d11abf659b91c97218039a7c11f2a9b75e851e7f020efa745235",
+    "bytes": 142290
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31247",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31247",
+    "method": "GET",
+    "params": {
+      "caractId": "31247"
+    },
+    "capturedAt": "2026-11-05T09:25:26.140Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31247/96fc59fc25ac0e5a.html",
+    "sha256": "96fc59fc25ac0e5a01e09b719051249bdf4f59de3906ecd7eba1ed3a1e53fe72",
+    "bytes": 153830
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31248",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31248",
+    "method": "GET",
+    "params": {
+      "caractId": "31248"
+    },
+    "capturedAt": "2026-11-05T09:25:26.912Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31248/076db0ad66650dc2.html",
+    "sha256": "076db0ad66650dc21d748b27a0a5ee3fd9ff2916197618c3dd9a43dd7403ae68",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31261",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31261",
+    "method": "GET",
+    "params": {
+      "caractId": "31261"
+    },
+    "capturedAt": "2026-11-05T09:25:29.476Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31261/6b7d08e8ecd30f00.html",
+    "sha256": "6b7d08e8ecd30f001785d41db1312d14708c9c0f6bd1f3f02cb2bd7bed8b48ae",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "31263",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=31263",
+    "method": "GET",
+    "params": {
+      "caractId": "31263"
+    },
+    "capturedAt": "2026-11-05T09:25:31.858Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/31263/d7983b6742b60dd3.html",
+    "sha256": "d7983b6742b60dd3f96e7645267e3f525e3af5fe31936ff4de92bd9e93b6baea",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "169",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=169",
+    "method": "GET",
+    "params": {
+      "caractId": "169"
+    },
+    "capturedAt": "2026-11-05T09:25:34.473Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/169/97e1395aa9c49641.html",
+    "sha256": "97e1395aa9c4964168ce53d79938cf9874cb5a937ce97a933fa15eec9909a346",
+    "bytes": 103693
+  },
+  {
+    "kind": "gallery_html",
+    "key": "504",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=504",
+    "method": "GET",
+    "params": {
+      "caractId": "504"
+    },
+    "capturedAt": "2026-11-05T09:25:37.130Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/504/949e6c2a4d78ac91.html",
+    "sha256": "949e6c2a4d78ac9135d71a34c4c62fe7cf223a7f395832d517ed3a861b2ef515",
+    "bytes": 103693
+  },
+  {
+    "kind": "gallery_html",
+    "key": "831",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=831",
+    "method": "GET",
+    "params": {
+      "caractId": "831"
+    },
+    "capturedAt": "2026-11-05T09:25:39.286Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/831/0994f69c44b61076.html",
+    "sha256": "0994f69c44b610766d9376b50260cf8e2ad6655c6ba07c13989c0642f8ca0483",
+    "bytes": 103693
+  },
+  {
+    "kind": "gallery_html",
+    "key": "16176",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=16176",
+    "method": "GET",
+    "params": {
+      "caractId": "16176"
+    },
+    "capturedAt": "2026-11-05T09:25:42.365Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/16176/fd7a12352d7d5d88.html",
+    "sha256": "fd7a12352d7d5d885adbe0d04298ec74985449ad96318ef25056abda90c0e6dc",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "16773",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=16773",
+    "method": "GET",
+    "params": {
+      "caractId": "16773"
+    },
+    "capturedAt": "2026-11-05T09:25:44.424Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/16773/a6d0a5b104345122.html",
+    "sha256": "a6d0a5b10434512208559f3ef8ae733cfe1ab3c6ae1d177af7be225afb9789c4",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "17377",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=17377",
+    "method": "GET",
+    "params": {
+      "caractId": "17377"
+    },
+    "capturedAt": "2026-11-05T09:25:46.935Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/17377/190ed7fffed77aa2.html",
+    "sha256": "190ed7fffed77aa227b497945a52f4a4e45cad2fec0b8cca7fbf2885a940aa69",
+    "bytes": 159600
+  },
+  {
+    "kind": "gallery_html",
+    "key": "17981",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=17981",
+    "method": "GET",
+    "params": {
+      "caractId": "17981"
+    },
+    "capturedAt": "2026-11-05T09:25:50.652Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/17981/a6be93cb41347087.html",
+    "sha256": "a6be93cb41347087964cb8f18943f6aac9544d47d0fd7eabdf98ed2e14c833cf",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "18546",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=18546",
+    "method": "GET",
+    "params": {
+      "caractId": "18546"
+    },
+    "capturedAt": "2026-11-05T09:25:51.906Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/18546/842d483159deead0.html",
+    "sha256": "842d483159deead0cb242ce1b01cf90fc245daaa02276ba4f9343aca09475d10",
+    "bytes": 162485
+  },
+  {
+    "kind": "gallery_html",
+    "key": "19105",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=19105",
+    "method": "GET",
+    "params": {
+      "caractId": "19105"
+    },
+    "capturedAt": "2026-11-05T09:25:54.534Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/19105/06c7b16fee004343.html",
+    "sha256": "06c7b16fee004343f450b055ccfb25644c5adf536980ca689689aba98b38dc04",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "19728",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=19728",
+    "method": "GET",
+    "params": {
+      "caractId": "19728"
+    },
+    "capturedAt": "2026-11-05T09:25:57.040Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/19728/e3d856b0011a146b.html",
+    "sha256": "e3d856b0011a146bf5d1f0d228f85840ccc01b031a2f1ba94234406d45863a8b",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "20392",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=20392",
+    "method": "GET",
+    "params": {
+      "caractId": "20392"
+    },
+    "capturedAt": "2026-11-05T09:25:59.457Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/20392/08f0134a30413d34.html",
+    "sha256": "08f0134a30413d3468973d91211c9abd9dd75c8700ee125b1fe0752ee2e3a56a",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "21054",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=21054",
+    "method": "GET",
+    "params": {
+      "caractId": "21054"
+    },
+    "capturedAt": "2026-11-05T09:26:02.040Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/21054/172d452ba5bf7c3a.html",
+    "sha256": "172d452ba5bf7c3a77176a570b03d32669fe281dcd78eff55a30db86f347d93c",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "21730",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=21730",
+    "method": "GET",
+    "params": {
+      "caractId": "21730"
+    },
+    "capturedAt": "2026-11-05T09:26:04.405Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/21730/c3aa607df4fd22c1.html",
+    "sha256": "c3aa607df4fd22c12c5b31e6aab53888933bd275cecc13c44ae6cc4eb54db75b",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "22424",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=22424",
+    "method": "GET",
+    "params": {
+      "caractId": "22424"
+    },
+    "capturedAt": "2026-11-05T09:26:06.999Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/22424/07b1722f131ca3ae.html",
+    "sha256": "07b1722f131ca3ae1fe4c7524290aa69fc940f37d82d754652dd0fc7f9e32081",
+    "bytes": 171225
+  },
+  {
+    "kind": "gallery_html",
+    "key": "23087",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=23087",
+    "method": "GET",
+    "params": {
+      "caractId": "23087"
+    },
+    "capturedAt": "2026-11-05T09:26:09.448Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/23087/27b3fa4fe614f950.html",
+    "sha256": "27b3fa4fe614f950e3ed3f5792923a1ef2a6ca38e1afb9835a32deefd6a48f3f",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "23754",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=23754",
+    "method": "GET",
+    "params": {
+      "caractId": "23754"
+    },
+    "capturedAt": "2026-11-05T09:26:12.060Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/23754/e7ef54f6050b783b.html",
+    "sha256": "e7ef54f6050b783b56744648ce8a8a15567756b85643486f14e6e935a2158c58",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "24484",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=24484",
+    "method": "GET",
+    "params": {
+      "caractId": "24484"
+    },
+    "capturedAt": "2026-11-05T09:26:14.504Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/24484/17865a5748ad0cf3.html",
+    "sha256": "17865a5748ad0cf31901ac34231b6625144b0f6b884d79a4a34003d8e2627351",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "25160",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=25160",
+    "method": "GET",
+    "params": {
+      "caractId": "25160"
+    },
+    "capturedAt": "2026-11-05T09:26:17.058Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/25160/81310f82e77ab1ef.html",
+    "sha256": "81310f82e77ab1ef1c5e99a6c7988c6ad6cf25b01ed396739d9038ae0452df0d",
+    "bytes": 136520
+  },
+  {
+    "kind": "gallery_html",
+    "key": "25810",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=25810",
+    "method": "GET",
+    "params": {
+      "caractId": "25810"
+    },
+    "capturedAt": "2026-11-05T09:26:19.597Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/25810/4fb310e5d7b6c0fd.html",
+    "sha256": "4fb310e5d7b6c0fd1edfbcbe492ff7adbd720fc14456a1f2624716b8a55db37e",
+    "bytes": 150945
+  },
+  {
+    "kind": "gallery_html",
+    "key": "26354",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=26354",
+    "method": "GET",
+    "params": {
+      "caractId": "26354"
+    },
+    "capturedAt": "2026-11-05T09:26:22.347Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/26354/0862947b972e1c09.html",
+    "sha256": "0862947b972e1c092257f29f48c6ec9b4290f0001c8e7255e592149fe1861dfa",
+    "bytes": 165370
+  },
+  {
+    "kind": "gallery_html",
+    "key": "26897",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=26897",
+    "method": "GET",
+    "params": {
+      "caractId": "26897"
+    },
+    "capturedAt": "2026-11-05T09:26:24.874Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/26897/1f472ce469050a5b.html",
+    "sha256": "1f472ce469050a5ba3b9917eef15832bf27775baf4cdba417dab8bf6a9b04552",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "27581",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=27581",
+    "method": "GET",
+    "params": {
+      "caractId": "27581"
+    },
+    "capturedAt": "2026-11-05T09:26:27.116Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/27581/ca231c1ce87fd75d.html",
+    "sha256": "ca231c1ce87fd75d864d192aba02d89be8ee058b00d7415e90419d42443be687",
+    "bytes": 168255
+  },
+  {
+    "kind": "gallery_html",
+    "key": "28346",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=28346",
+    "method": "GET",
+    "params": {
+      "caractId": "28346"
+    },
+    "capturedAt": "2026-11-05T09:26:29.590Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/28346/043c2eb887184836.html",
+    "sha256": "043c2eb887184836dcdc7942de77465eb7de9210acdb6640a9c51b130217f529",
+    "bytes": 153830
+  },
+  {
+    "kind": "gallery_html",
+    "key": "29033",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=29033",
+    "method": "GET",
+    "params": {
+      "caractId": "29033"
+    },
+    "capturedAt": "2026-11-05T09:26:32.303Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/29033/38f355ccaf4c3292.html",
+    "sha256": "38f355ccaf4c32924d68d3ee2bfa3775ef23549184eb60675b4c77d46a82e906",
+    "bytes": 148060
+  },
+  {
+    "kind": "gallery_html",
+    "key": "29699",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=29699",
+    "method": "GET",
+    "params": {
+      "caractId": "29699"
+    },
+    "capturedAt": "2026-11-05T09:26:34.641Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/29699/d9879089adffc26d.html",
+    "sha256": "d9879089adffc26de6a5dafd1eeda69ffe57e64723c6613ef503c13042e15175",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "30356",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=30356",
+    "method": "GET",
+    "params": {
+      "caractId": "30356"
+    },
+    "capturedAt": "2026-11-05T09:26:39.471Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/30356/c813a9a082aff5f3.html",
+    "sha256": "c813a9a082aff5f322127a957aa97cf1b2f0f61adee566aa49913e786044d680",
+    "bytes": 156715
+  },
+  {
+    "kind": "gallery_html",
+    "key": "30982",
+    "url": "https://sdr.arc.cat/cform/EditCaracteritzacionsImatges.do?caractId=30982",
+    "method": "GET",
+    "params": {
+      "caractId": "30982"
+    },
+    "capturedAt": "2026-11-05T09:26:40.310Z",
+    "contentType": "text/html; charset=ISO-8859-1",
+    "contentDisposition": null,
+    "status": 200,
+    "file": "gallery_html/30982/0d40ab2105fdd110.html",
+    "sha256": "0d40ab2105fdd110e3a4f144f6a2a2fa9427e01fdafc34c9c86b855be8c184e4",
+    "bytes": 142290
+  }
+]
